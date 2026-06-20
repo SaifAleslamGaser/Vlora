@@ -1,0 +1,6 @@
+@Vlora_HostAddress = http://localhost:5246
+
+GET {{Vlora_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
