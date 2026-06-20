@@ -11,6 +11,7 @@ namespace Vlora.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    //New line 
     public class ProductsController : ControllerBase
     {
         //private readonly IMapper mapper;
